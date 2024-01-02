@@ -1,0 +1,25 @@
+/* Portfolio Header */
+
+#hero {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+#hero-image-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex-basis: 50%;
+}
+
+.hero-image {
+  width: 100%;
+}
+
+#hero-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  flex-basis: 50%;
+}

@@ -1,0 +1,11 @@
+#about-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.about-section-content {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+}
