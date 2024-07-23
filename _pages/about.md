@@ -13,10 +13,5 @@ I hold a BSc. in Software Development from Munster Techincal University, a Certi
 
 When I'm not working or studying, you can usually find me playing soccer or out running
 
-## Want to see my portfolio? 
-Click [here](https://jamesburke.dev) or use the Posts button in the header of this page
-
 ## Want to chat? 
 Feel free to reach out to me on LinkedIn [LinkedIn](https://www.linkedin.com/in/james-burke-dev/).
-
-Thanks for reading!
