@@ -1,7 +1,6 @@
 # Site settings
-title:          JB
-description:    "Personal Portfolio"
-baseurl:        ""
+title:          JB 
+description:    "James Burke's portfolio"
 url:            "https://jamesburke.dev"
 
 # Google Analytics
@@ -11,7 +10,6 @@ google_analytics: UA—XXXXXXXX-X
 author:
   name:         James Burke
   url:          https://jamesburke.dev
-  email:        blank
 
 # Build settings
 markdown:       kramdown
@@ -28,7 +26,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
@@ -39,12 +36,3 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 disqus:         jekyll-tale
-
-remote_theme: chesterhow/tale
-
-permalink:    /:year-:month-:day/:title
-paginate:     5
-
-plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
